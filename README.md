@@ -1,5 +1,7 @@
 # Tutify
 
+![](images/tutify-banner.svg)
+
 **Tutify** ist eine Webanwendung, die ein Frontend mit **Vue.js** und ein Backend mit **FastAPI** verwendet. Das Backend kommuniziert mit einer **Oracle-Datenbank**, um Daten zu speichern und abzurufen. Dieses Projekt wurde entwickelt, um eine schnelle und benutzerfreundliche Plattform für das Management von Tutoren und Lernmaterialien zu bieten.
 
 ## Architektur
