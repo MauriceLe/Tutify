@@ -1,0 +1,1 @@
+__all__ = ["kunde", "kurs", "filiale", "account"]
